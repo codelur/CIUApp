@@ -1,0 +1,127 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="codelur.ciuapp.Student"
+    android:background="#6ab0ce">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView android:text="@string/student" android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView5"
+            android:background="#f5fd77">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:id="@+id/RLStudent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingBottom="20dp">
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/yourSchedule"
+                    android:id="@+id/button6"
+                    android:background="@drawable/border_yellow_button"
+                    android:layout_below="@+id/textView20"
+                    android:layout_centerHorizontal="true"
+                    android:onClick="buttonYourScheduleOnClick"
+                    android:width="@dimen/tab_max_width" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/myBachClasses"
+                    android:id="@+id/buttonMyClasses"
+                    android:background="@drawable/border_yellow_button"
+                    android:onClick="buttonMyClassesOnClick"
+                    android:layout_below="@+id/textView21"
+                    android:layout_centerHorizontal="true"
+                    android:width="@dimen/tab_max_width" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/myMasterClasses"
+                    android:id="@+id/button8"
+                    android:background="@drawable/border_yellow_button"
+                    android:layout_below="@+id/textView22"
+                    android:layout_centerHorizontal="true"
+                    android:width="@dimen/tab_max_width"
+                    android:onClick="buttonMyMasterClassesOnClick" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/yourGPA"
+                    android:id="@+id/button9"
+                    android:background="@drawable/border_yellow_button"
+                    android:onClick="buttonMyGpaOnClick"
+                    android:width="@dimen/tab_max_width"
+                    android:layout_below="@+id/textView23"
+                    android:layout_alignLeft="@+id/button8"
+                    android:layout_centerInParent="true" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Create my Schedule"
+                    android:id="@+id/buttonCreateSchedule"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/border_yellow_button"
+                    android:onClick="buttonSetScheduleOnClick"
+                    android:width="@dimen/tab_max_width"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView20"
+                    android:layout_below="@+id/buttonCreateSchedule"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView21"
+                    android:layout_below="@+id/button6"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView22"
+                    android:layout_below="@+id/buttonMyClasses"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView23"
+                    android:layout_below="@+id/button8"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

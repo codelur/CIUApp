@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="codelur.ciuapp">
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/main_menu" />
+        <activity
+            android:name=".University"
+            android:label="@string/title_activity_university" />
+        <activity
+            android:name=".Student"
+            android:label="@string/title_activity_student" />
+        <activity
+            android:name=".Programs"
+            android:label="@string/title_activity_programs" />
+        <activity
+            android:name=".ContactUs"
+            android:label="@string/title_activity_contact_us" />
+        <activity
+            android:name=".MasterClassesList"
+            android:label="@string/title_activity_master_classes_list" />
+        <activity
+            android:name=".BachelorClassesList"
+            android:label="@string/title_activity_bachelor_classes_list" />
+        <activity
+            android:name=".SetSchedule"
+            android:label="@string/title_activity_set_schedule" />
+        <activity
+            android:name=".yourSchedule"
+            android:label="@string/title_activity_your_schedule" />
+        <activity
+            android:name=".yourGpa"
+            android:label="@string/title_activity_your_gpa" />
+        <activity
+            android:name=".myClasses"
+            android:label="@string/title_activity_my_classes"/>
+        <activity
+            android:name=".MyMasterClasses"
+            android:label="@string/title_activity_my_master_classes"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

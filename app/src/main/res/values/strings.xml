@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CIU University</string>
+    <string name="title_activity_university">THIS IS OUR UNIVERSITY</string>
+    <string name="title_activity_student">STUDENT TOOLS</string>
+    <string name="title_activity_programs">PROGRAMS AT CIU</string>
+    <string name="title_activity_contact_us">CONTACT US</string>
+    <string name="title_activity_master_classes_list">MASTER CLASSES AT CIU</string>
+    <string name="title_activity_bachelor_classes_list">BACHELOR CLASSES AT CIU</string>
+    <string name="title_activity_set_schedule">CREATE MY SCHEDULE</string>
+    <string name="title_activity_your_schedule">MY CLASSES ON THIS QUARTER</string>
+    <string name="title_activity_your_gpa">CALCULATE MY GPA</string>
+    <string name="title_activity_my_classes">SELECT MY CLASSES</string>
+    <string name="title_activity_my_master_classes">SELECT MY CLASSES</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_splash">CIU App </string>
+    <string name="main_menu">MAIN MENU</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="university">This is our University</string>
+    <string name="universityInfo">California International University (CIU) was established in 1973 as a liberal arts university for international students.Since that time, the University has provided international students with a bachelors degree programs in business management and a masters degree program in international business.\n\nCalifornia International University is located in Los Angeles, California, one of the world\'s great marketplaces Because of its position at the heart of one of the world\'s most dynamic economies, CIU is an ideal environment for a student to pursue his or her interest in management and/or international business.Also, because Los Angles has such a very diverse population, it is easy for an international student to fit in and feel at home.\n</string>
+    <string name="universityInfo2">CIU strives to offer quality programs while keeping its costs as low as possible for the students. Tuition is currently $1,800 per academic quarter or $5,400 per academic year (three quarters per academic year). The normative time to complete a Masters degree in international business is five or six academic quarters, depending upon the applicants previous coursework. The normative time for a Bachelors degree in Business Management is four academic years (three quarters per year).This may be less if the student is able to transfer work from another university. Today, in its facility on Wilshire Boulevard in Los Angeles, California International University continues to provide a faculty and staff of qualified professionals dedicated to the spirit of learning and to the educational enrichment of each individual student.</string>
+    <string name="student">These are all the options you have in order to improve your scholar experience at CIU</string>
+    <string name="contact_us">Contact Us Layout</string>
+    <string name="contact_us_info">California International University\n\n3130 Wilshire Blvd\nLos Angeles, CA 90010\n\nTel : 213-381-3710\nFax : 213-381-6990\nemail : admissions@ciula.edu</string>
+    <string name="programs">Programs Layout</string>
+    <string name="buttonAccept">Accept</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="cuiFacebbokpage">https://www.facebook.com/ciustudentorg?ref=hl</string>
+    <string name="yourSchedule"> My Schedule </string>
+    <string name="myBachClasses"> My Bachelor Classes </string>
+    <string name="myMasterClasses"> My Master Classes </string>
+    <string name="remainClasses"> Remaining Classes </string>
+    <string name="yourGPA"> My GPA </string>
+    <string name="myBachInfo">Please click on those classes you have taken at CIU and add them on your list and calculate your GPA. Click on Update my classes button to update that list.</string>
+    <string name="myMasterInfo">Please click on those classes you have taken at CIU and add them on your list and calculate your GPA. Click on Update my classes button to update that list.</string>
+    <string name="programsInfo">These are the programs available at CIU.\nPlease select a program to see the offered classes for that program.</string>
+
+</resources>

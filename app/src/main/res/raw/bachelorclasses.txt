@@ -1,0 +1,56 @@
+EN101 Expository Writing
+EN105 Composition and Argumentation
+EN200 Literature and Society
+EN205 Public Speaking
+MA111 College Algebra
+MA112 College Algedra ll
+HU136 Thinking Critically
+HS108 United States History Through 1876
+HS109 United States History Since 1876
+PS112 Institutions of American Government
+BH114 Contemporary Social Issues
+CC116 Intercultural Communications
+HU121 Comparative Studies in World Culture
+HU124 Introduction to World Literature
+NS140 Environmental Science
+MA219 Statistics
+BH113 Psychology in the Workplace
+HS127 History of American Business
+PS249 The United States and Developing Nations
+HS499 Directed Research in the History of American Culture
+MG200 Introduction to Business
+LW201 Fundamentals of Business Law
+AC250 Principles of Accounting I
+AC251 Principles of Accounting II
+EC255 Microeconomics
+MG301 Principles of Management
+FN305 Foundations of Financial Management
+CC307 Business Communications
+MK313 Principles of Marketing
+MG322 Introduction to International Business
+AC353 Managerial Accounting
+MG456 Business Policy, Planning, and Strategy
+EC356 Macroeconomics
+MG311 Organizational Behavior
+HR400 Human Resource Management
+MG345 Cultural Influence in Business Ethics
+MG411 Entrepreneurship
+MG483 Directed Research in Management
+AC361 Income Tax Procedures
+CC368 Leadership in Human Relation
+CC400 Strategic Communications
+FN354 Money and Banking
+IS339 Business Information Systems
+IS370 Database Management
+IS372 Computer Applications in Business
+IS373 Web Based Programming
+IS375 Computers and Accountin
+MG317 Government Regulations in Business
+MG484 Directed Studies in Management
+MG403 Labor / Management Relation
+MG490 General Systems Theories
+MK221 Essentials of Salesmanship
+MK330 Public Relations
+MK352 Consumer Behavior
+HT420 International Human Rights
+IN400 Guided Study Scholarship
